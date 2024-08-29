@@ -1,5 +1,5 @@
 {
-  "name": "wdio-ds-batch5",
+  "name": "wdio-pom-digitalskola",
   "type": "module",
   "devDependencies": {
     "@wdio/cli": "^9.0.7",
